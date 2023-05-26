@@ -1,0 +1,21 @@
+{
+    "name": "htdocs",
+    "version": "1.0.0",
+    "description": "spelte template",
+    "author": "",
+    "license": "ISC",
+    "package": {
+        "use-import": {
+            "version": "main",
+            "url": "https://github.com/Arikato111/use-import/tree/master"
+        },
+        "spelte": {
+            "version": "main",
+            "url": "https://github.com/Arikato111/spelte-php/tree/module"
+        },
+        "wisit-router": {
+            "version": "type",
+            "url": "https://github.com/Arikato111/wisit-router/tree/type"
+        }
+    }
+}
